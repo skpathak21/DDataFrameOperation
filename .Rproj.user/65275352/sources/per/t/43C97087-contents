@@ -1,0 +1,12 @@
+Package: DataFrameOperation
+Type: Package
+Title: Execute R node and write dataframe on hdfs
+Version: 0.1.0
+Author: Sanjeev
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:httr,jsonlite,uuid,xml2,GlobalVarFile

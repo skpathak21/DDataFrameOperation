@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526647133841.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1372508584",
+    "id" : "EF22B7AC",
+    "lastKnownWriteTime" : 1526647272,
+    "last_content_update" : 1526647272286,
+    "path" : "~/DataFrameOperation/NAMESPACE",
+    "project_path" : "NAMESPACE",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_namespace"
+}
